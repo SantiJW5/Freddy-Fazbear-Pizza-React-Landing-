@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -8,7 +7,7 @@ function App() {
         
         <div className="navbar-container">
             <a href="#inicio" className="navbar-logo">
-                <div className="logo-icon"><img src="/img/FazEntLogo.webp" alt=""/></div>
+                <div className="logo-icon"><img src="/img/FazEntLogo.webp" alt="freddy"/></div>
                 <span>Freddy Fazbear Pizza</span>
             </a>
             <nav className="navbar-links" id="navbarLinks">
